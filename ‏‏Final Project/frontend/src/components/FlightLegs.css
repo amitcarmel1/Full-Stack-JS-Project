@@ -1,0 +1,10 @@
+ .legs{
+    display:flex;
+    justify-content: space-around;
+    background-color: black;
+    color: aqua;
+} 
+
+.h1{
+    color: rgb(242, 33, 33); ;
+}

@@ -1,0 +1,13 @@
+.FlightList-columns{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color:rgb(242, 33, 33);
+}
+
+.h{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color:deepskyblue;
+}

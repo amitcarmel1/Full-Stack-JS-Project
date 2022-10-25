@@ -1,0 +1,6 @@
+.FlightItem{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color:rgb(8, 244, 146);
+}
